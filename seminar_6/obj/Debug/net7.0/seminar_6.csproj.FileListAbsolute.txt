@@ -1,0 +1,15 @@
+D:\projects\c_sharp\seminar_6\bin\Debug\net7.0\seminar_6.exe
+D:\projects\c_sharp\seminar_6\bin\Debug\net7.0\seminar_6.deps.json
+D:\projects\c_sharp\seminar_6\bin\Debug\net7.0\seminar_6.runtimeconfig.json
+D:\projects\c_sharp\seminar_6\bin\Debug\net7.0\seminar_6.dll
+D:\projects\c_sharp\seminar_6\bin\Debug\net7.0\seminar_6.pdb
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\seminar_6.csproj.AssemblyReference.cache
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\seminar_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\seminar_6.AssemblyInfoInputs.cache
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\seminar_6.AssemblyInfo.cs
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\seminar_6.csproj.CoreCompileInputs.cache
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\seminar_6.dll
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\refint\seminar_6.dll
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\seminar_6.pdb
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\seminar_6.genruntimeconfig.cache
+D:\projects\c_sharp\seminar_6\obj\Debug\net7.0\ref\seminar_6.dll
