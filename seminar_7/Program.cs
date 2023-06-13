@@ -57,29 +57,29 @@ double[,] Generate2DimDoubleArray(int n, int m) {
 
 // Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
 
-// Console.WriteLine("Задайте кол-во строк и колонок(m, n)");
-// int m = Convert.ToInt32(Console.ReadLine());
-// int n = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Задайте кол-во строк и колонок(m, n)");
+int m = Convert.ToInt32(Console.ReadLine());
+int n = Convert.ToInt32(Console.ReadLine());
 
-// Print2DimDoubleArray(Generate2DimDoubleArray(n, m));
+Print2DimDoubleArray(Generate2DimDoubleArray(n, m));
 
 // Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, 
 // и возвращает значение этого элемента или же указание, что такого элемента нет.
 
-// int n2 = random.Next(1, 10);
-// int m2 = random.Next(1, 10);
-// double[,] ar2 = Generate2DimDoubleArray(n2, m2);
+int n2 = random.Next(1, 10);
+int m2 = random.Next(1, 10);
+double[,] ar2 = Generate2DimDoubleArray(n2, m2);
 
-// Print2DimDoubleArray(ar2);
-// Console.WriteLine("Укажите координаты элемента (x, y)");
-// int x = Convert.ToInt32(Console.ReadLine());
-// int y = Convert.ToInt32(Console.ReadLine());
+Print2DimDoubleArray(ar2);
+Console.WriteLine("Укажите координаты элемента (x, y)");
+int x = Convert.ToInt32(Console.ReadLine());
+int y = Convert.ToInt32(Console.ReadLine());
 
-// if (x > n2 - 1 || y > m2 -1 || x < 0 || y < 0) {
-//     Console.WriteLine("Элемента не существует");
-// } else {
-//     Console.WriteLine("= " + ar2[x, y]);
-// }
+if (x > n2 - 1 || y > m2 -1 || x < 0 || y < 0) {
+    Console.WriteLine("Элемента не существует");
+} else {
+    Console.WriteLine("= " + ar2[x, y]);
+}
 
 // Задайте двумерный массив из целых чисел. Найдите среднее арифметическое элементов в каждом столбце.
 int[] GetAveragesFrom2DimIntArray(int[,] ar) {

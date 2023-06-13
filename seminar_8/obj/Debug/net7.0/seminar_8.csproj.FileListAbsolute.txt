@@ -1,0 +1,15 @@
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\seminar_8.csproj.AssemblyReference.cache
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\seminar_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\seminar_8.AssemblyInfoInputs.cache
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\seminar_8.AssemblyInfo.cs
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\seminar_8.csproj.CoreCompileInputs.cache
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\bin\Debug\net7.0\seminar_8.exe
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\bin\Debug\net7.0\seminar_8.deps.json
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\bin\Debug\net7.0\seminar_8.runtimeconfig.json
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\bin\Debug\net7.0\seminar_8.dll
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\bin\Debug\net7.0\seminar_8.pdb
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\seminar_8.dll
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\refint\seminar_8.dll
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\seminar_8.pdb
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\seminar_8.genruntimeconfig.cache
+C:\Users\OKosnyrev\projects\c_sharp\seminar_8\obj\Debug\net7.0\ref\seminar_8.dll
